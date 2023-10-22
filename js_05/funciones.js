@@ -1,4 +1,4 @@
-function unaFuncion(){
+/*function unaFuncion(){
     console.log(1);
     console.log(2);
     console.log(3);
@@ -17,17 +17,17 @@ function otraFuncion(){
 const saludo = otraFuncion();
 console.log(saludo);
 
-
-function suma(a, b){
+*/
+const resultado=function(a, b){
     return a + b;
 
 }
-console.log(suma(2, 4));
-const resultado = suma (3, 2);
-console.log(resultado);
+//console.log(suma(2, 4));
+
+console.log(resultado(5,5));
 
 
-const algunaFuncion= function(){ //funcion anonima .-.
+/*const algunaFuncion= function(){ //funcion anonima .-.
     console.log(1);
 }
 algunaFuncion();
@@ -73,4 +73,4 @@ const square= function (number){
   };
   let numbers = [0, 1, 2, 5, 10];
   let cube = map(f, numbers);
-  console.log(cube);
+  console.log(cube);*/
