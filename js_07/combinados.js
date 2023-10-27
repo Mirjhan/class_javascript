@@ -41,4 +41,4 @@ console.log("--------------------------");
 const arrayAparte = objetoConArray.arr
 for (let i = 0; i< arrayAparte.length; i++) {
   console.log(arrayAparte[i]+ " jejeje");
-    }
+    }    
